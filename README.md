@@ -38,7 +38,7 @@ U+4E8C	二
 
 **注：**
 
-在甲表乙表中都有收录 `兀`、`嗀`、`斔` 三字。
+甲表和乙表都有收录 `兀`、`嗀`、`斔` 三字。
 
 ## 参考资料
 
@@ -54,14 +54,44 @@ U+4E8C	二
 
 [cn-tables]: https://github.com/kitty-panics/cn-tables
 
-### [unicode-cjk]
-
-整理所有 Unicode CJK 字符。
-
-[unicode-cjk]: https://github.com/kitty-panics/unicode-cjk
-
 ### [CNS11643-Unicode-Cangjie]
 
-CNS11643、Unicode、Cangjie 对照表。
+[CNS11643]、Unicode、Cangjie 对照表。
 
 [CNS11643-Unicode-Cangjie]: https://github.com/kitty-panics/CNS11643-Unicode-Cangjie
+[CNS11643]: https://data.gov.tw/dataset/5961
+
+### [unicode-cjk]
+
+整理所有 [Unicode] CJK 字符。
+
+[unicode-cjk]: https://github.com/kitty-panics/unicode-cjk
+[Unicode]: https://www.unicode.org/Public/UNIDATA/Blocks.txt
+
+### [unicode-cjk-98wubi]
+
+整理 Unicode CJK 字符的 [五笔98] 编码。
+
+[unicode-cjk-98wubi]: https://github.com/kitty-panics/unicode-cjk-98wubi
+[五笔98]: http://98wb.ysepan.com
+
+### [unicode-cjk-ids]
+
+备份、修补 [chise/ids]。
+
+[unicode-cjk-ids]: https://github.com/kitty-panics/unicode-cjk-ids
+[chise/ids]: http://git.chise.org/git/chise/ids.git
+
+### [unicode-cjk-zhlf]
+
+整理 Unicode CJK 字符的 [字海两分] 编码。
+
+[unicode-cjk-zhlf]: https://github.com/kitty-panics/unicode-cjk-zhlf
+[字海两分]: http://cheonhyeong.com/Simplified/download.html
+
+### [unicode-cjk-zhlf-sc]
+
+整理 Unicode CJK 字符的 [字海两分速成] 编码。
+
+[unicode-cjk-zhlf-sc]: https://github.com/kitty-panics/unicode-cjk-zhlf-sc
+[字海两分速成]: http://cheonhyeong.com/Simplified/download.html
