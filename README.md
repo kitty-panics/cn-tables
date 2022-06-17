@@ -43,8 +43,11 @@ U+5341	十
 
 ## 参考资料
 
+参考资料可在 [参考资料] 目录下找到。其中非文件类的在线资料将转换成 PDF 快照存放。
+
 + [cjkvi/cjkvi-tables]
 
+[参考资料]: 参考资料
 [cjkvi/cjkvi-tables]: https://github.com/cjkvi/cjkvi-tables
 
 ## 相关项目
