@@ -1,4 +1,4 @@
-# cn-tables
+# CN-Tables
 
 整理中国大陆简中、中国台湾繁中的国标汉字表。
 
@@ -26,20 +26,23 @@ U+5341	十
 
 ## 文件列表
 
-+ [通用规范汉字表]
++ [《通用规范汉字表》]
     + 收录汉字 8105 个。
-+ [常用国字标准字体表（甲表）]
++ [《常用国字标准字体表（甲表）》]
     + 收录汉字 4808 个。
-+ [次常用国字标准字体表（乙表）]
++ [《次常用国字标准字体表（乙表）》]
     + 收录汉字 6341 个。
-
-[通用规范汉字表]: 通用规范汉字表.txt
-[常用国字标准字体表（甲表）]: 常用国字标准字体表（甲表）.txt
-[次常用国字标准字体表（乙表）]: 次常用国字标准字体表（乙表）.txt
 
 **注：**
 
-甲表和乙表都有收录 `兀`、`嗀`、`斔` 三字。
+1. [甲表] 和 [乙表] 中都有收录 `兀` 字
+2. [乙表] 中 `嗀`、`斔` 字重复收录了一次
+
+[《通用规范汉字表》]: 通用规范汉字表.txt
+[《常用国字标准字体表（甲表）》]: 常用国字标准字体表（甲表）.txt
+[《次常用国字标准字体表（乙表）》]: 次常用国字标准字体表（乙表）.txt
+[甲表]: 常用国字标准字体表（甲表）.txt
+[乙表]: 次常用国字标准字体表（乙表）.txt
 
 ## 参考资料
 
@@ -58,19 +61,12 @@ U+5341	十
 
 [cn-tables]: https://github.com/kitty-panics/cn-tables
 
-### [CNS11643-Unicode-Cangjie]
-
-[CNS11643]、Unicode、Cangjie 对照表。
-
-[CNS11643-Unicode-Cangjie]: https://github.com/kitty-panics/CNS11643-Unicode-Cangjie
-[CNS11643]: https://data.gov.tw/dataset/5961
-
 ### [unicode-cjk]
 
-整理所有 [Unicode] CJK 字符。
+整理所有 [Unicode CJK] 字符。
 
 [unicode-cjk]: https://github.com/kitty-panics/unicode-cjk
-[Unicode]: https://www.unicode.org/Public/UNIDATA/Blocks.txt
+[Unicode CJK]: https://www.unicode.org/Public/UCD/latest/ucd/Blocks.txt
 
 ### [unicode-cjk-98wubi]
 
@@ -79,12 +75,27 @@ U+5341	十
 [unicode-cjk-98wubi]: https://github.com/kitty-panics/unicode-cjk-98wubi
 [五笔98]: http://98wb.ysepan.com
 
+### [unicode-cjk-cangjie5]
+
+整理 Unicode CJK 字符的 [仓颉5] 编码。
+
+[unicode-cjk-cangjie5]: https://github.com/kitty-panics/unicode-cjk-cangjie5
+[仓颉5]: https://github.com/Jackchows/Cangjie5
+
+### [unicode-cjk-cns11643-cangjie]
+
+[Unicode]、[CNS11643]、Cangjie 对照表。
+
+[unicode-cjk-cns11643-cangjie]: https://github.com/kitty-panics/unicode-cjk-cns11643-cangjie
+[Unicode]: https://www.unicode.org/Public/UCD/latest
+[CNS11643]: https://data.gov.tw/dataset/5961
+
 ### [unicode-cjk-ids]
 
 备份、修补 [chise/ids]。
 
 [unicode-cjk-ids]: https://github.com/kitty-panics/unicode-cjk-ids
-[chise/ids]: http://git.chise.org/git/chise/ids.git
+[chise/ids]: https://gitlab.chise.org/CHISE/ids.git
 
 ### [unicode-cjk-zhlf]
 
