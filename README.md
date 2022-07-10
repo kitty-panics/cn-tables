@@ -27,26 +27,21 @@ U+5341	十
 ## 文件列表
 
 + 大陆
-    - [《通用规范汉字表》]
-        - 收录汉字 8105 个。
+    - [《通用规范汉字表》] (2013 年)
+        - 收录汉字 8,105 个。
     - [《通用规范汉字表-字频》]
-        - 依照 [邢红兵教授] 发布的 [25 亿字语料汉字字频表] 进行排序。
-        - 最后的 445 个汉字在字频表中没有，依照 [《通用规范汉字表》] 顺序排序。
+        - 依照 [邢红兵教授] 发布的 [25 亿字语料汉字字频表] 进行排序
+          (最后 445 个汉字在字频表中没有，依照 [《通用规范汉字表》] 顺序排序)。
 + 香港
-    - [《常用字字形表》]
-        - 收录汉字 4759 个。2000 年修订本。
+    - [《常用字字形表》] (2000 年，修订本)
+        - 收录汉字 4,759 个。
     - [《常用字字形表-合并》]
-        - 将同一序号的字合并到一行。
+        - 将相同序号的汉字合并到一行。
 + 台湾
-    - [《国字标准字体表-常用(甲表)》]
-        - 收录汉字 4808 个。
-    - [《国字标准字体表-次常用(乙表)》]
-        - 收录汉字 6341 个。
-
-**注：**
-
-1. [甲表] 和 [乙表] 中都收录有 `兀` 字。
-2. [乙表] 中收录的 `嗀`、`斔` 字重复了一次。
+    - [《国字标准字体表-常用(甲表)》] (1982 年)
+        - 收录汉字 4,808 个。
+    - [《国字标准字体表-次常用(乙表)》] (1993 年)
+        - 收录汉字 6,343 个。
 
 [《通用规范汉字表》]: 通用规范汉字表.txt
 [《通用规范汉字表-字频》]: 通用规范汉字表-字频.txt
@@ -67,11 +62,19 @@ U+5341	十
 
 + [Unihan.zip]
 + [25 亿字语料汉字字频表]
-+ [cjkvi/cjkvi-tables]
++ [常用字下載]
++ [次常用國字標準字體表 - 维基文库]
++ [ButTaiwan/cjktables.git]
++ ~~[rime-aca/character_set.git]~~
++ ~~[cjkvi/cjkvi-tables.git]~~
 
 [参考资料]: 参考资料
 [Unihan.zip]: https://www.unicode.org/Public/14.0.0/ucd/Unihan.zip
-[cjkvi/cjkvi-tables]: https://github.com/cjkvi/cjkvi-tables
+[常用字下載]: https://language.moe.gov.tw/result.aspx?classify_sn=23&subclassify_sn=437&content_sn=46
+[次常用國字標準字體表 - 维基文库]: https://zh.m.wikisource.org/zh/%E6%AC%A1%E5%B8%B8%E7%94%A8%E5%9C%8B%E5%AD%97%E6%A8%99%E6%BA%96%E5%AD%97%E9%AB%94%E8%A1%A8
+[ButTaiwan/cjktables.git]: https://github.com/ButTaiwan/cjktables
+[rime-aca/character_set.git]: https://github.com/rime-aca/character_set
+[cjkvi/cjkvi-tables.git]: https://github.com/cjkvi/cjkvi-tables
 
 ## 相关项目
 
