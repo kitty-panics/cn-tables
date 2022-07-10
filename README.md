@@ -70,7 +70,7 @@ U+5341	十
 + [cjkvi/cjkvi-tables]
 
 [参考资料]: 参考资料
-[[Unihan.zip]]: https://www.unicode.org/Public/14.0.0/ucd/Unihan.zip
+[Unihan.zip]: https://www.unicode.org/Public/14.0.0/ucd/Unihan.zip
 [cjkvi/cjkvi-tables]: https://github.com/cjkvi/cjkvi-tables
 
 ## 相关项目
