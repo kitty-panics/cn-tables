@@ -18,10 +18,10 @@
 每个文件一行一字，以 Tab (制表符) 进行分割，例：
 
 ```Text
-U+4E00	一
-U+4E59	乙
-U+4E8C	二
-U+5341	十
+U+7684	的	de,dī,dí,dì
+U+4E00	一	yī
+U+4E86	了	le,liǎo
+U+662F	是	shì
 ```
 
 ## 文件列表
@@ -105,14 +105,6 @@ U+5341	十
 [unicode-cjk-cangjie5]: https://github.com/kitty-panics/unicode-cjk-cangjie5
 [仓颉5]: https://github.com/Jackchows/Cangjie5
 
-### [unicode-cjk-cns11643-cangjie]
-
-[Unicode]、[CNS11643]、Cangjie 对照表。
-
-[unicode-cjk-cns11643-cangjie]: https://github.com/kitty-panics/unicode-cjk-cns11643-cangjie
-[Unicode]: https://www.unicode.org/Public/UCD/latest
-[CNS11643]: https://data.gov.tw/dataset/5961
-
 ### [unicode-cjk-ids]
 
 备份、修补 [chise/ids]。
@@ -126,10 +118,3 @@ U+5341	十
 
 [unicode-cjk-zhlf]: https://github.com/kitty-panics/unicode-cjk-zhlf
 [字海两分]: http://cheonhyeong.com/Simplified/download.html
-
-### [unicode-cjk-zhlf-sc]
-
-整理 Unicode CJK 字符的 [字海两分速成] 编码。
-
-[unicode-cjk-zhlf-sc]: https://github.com/kitty-panics/unicode-cjk-zhlf-sc
-[字海两分速成]: http://cheonhyeong.com/Simplified/download.html
